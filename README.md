@@ -18,8 +18,8 @@ ___
 * [Matrix]() [(wiki)](http://en.wikipedia.org/wiki/Matrix_(mathematics))❌
 * [Min/Max Heap]() [(wiki)](http://en.wikipedia.org/wiki/Heap_%28data_structure%29)❌
 * [Priority Queue]() [(wiki)](http://en.wikipedia.org/wiki/Priority_queue)❌
-* [Queue]() [(wiki)](http://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29)❌
-* [Stack]() [(wiki)](http://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)❌
+* [Queue]() [(wiki)](http://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29)✔️️
+* [Stack]() [(wiki)](http://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)✔️ 
 * [Tree]() [(wiki)](http://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)❌
 * [Binary Tree]() [(wiki)](http://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)❌
 
