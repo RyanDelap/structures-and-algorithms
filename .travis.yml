@@ -3,6 +3,10 @@ jdk:
 - oraclejdk8
 install:
 - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+before_deploy:
+- git config --local user.name "RyanDelap"
+- git config --local user.email "akayungeagle@gmail.com"
+- git tag $(date +'%Y.%m.%d-%H.%M.%S')
 deploy:
   provider: releases
   api_key:
