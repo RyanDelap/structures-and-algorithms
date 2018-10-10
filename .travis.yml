@@ -8,5 +8,6 @@ deploy:
   api_key:
     secure: K4hkOoq+PFHkYdQ0bzWIg+BT7KVfJTQOTsVDrmLHPuw/bucbK6/WC3jWcPjn9UxXENKkBfiBsiBiX9EveagcYeC0WrkWAe9A3mes7wCg3TDqVWxtSrvJvbYKpzLXGLCpmZ3Am5Da0huoYVsd1aqpR7/wBCEbUXeB2InOKN/ErnmrfDl2ERRQA1D0i804GqBpMiKEo2pSgFdRh4FK2Ij1cmmBbU0wVXoa+tri9g7o6fZh15sOXmFnYX4atUa0h+hqN0YGaNs7giNG1x4iIZtQ53AaLS0hu/M/Kz/fre9cl8UPGEi5MgHUR+M93kV2yy6mSs+RRwrWVIOiTN8BCtK/dLgAcf3nfZRKH6eW/krljrOEAJme7TysGLf7e3gRT6CA7AHye3kdrRdI8VcnnXBPPqZeY9asYsJHABKB5eU8FAhEB88lwo9VxxDY/VuPYy85XaTKWZRymXxpoLJjSZmuxIWvbESpP+uRCPvE73ZIhBfTxRwhcv0fSP9n9EfKCyy/X+1TO0+aa4gp5PkRALjNrvYB+HcEq0FCEhNXvXivCHaOMfbLj1Xh2CNHKqixZFx8YEiUsns/9vbtoIvgBqeiDGav08++HX7IlSm4C+0VmFIaa//PHyuRms+Zan8QnAKYUulABt/rWZ34y74Cbvzb8dxNDg6CLQXPJtm9pGFhfgU=
   file: target/Structures-And-Algorithms-1.0-SNAPSHOT.jar
+  skip_cleanup: true
   on:
     repo: RyanDelap/structures-and-algorithms
