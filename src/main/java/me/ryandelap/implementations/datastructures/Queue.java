@@ -36,7 +36,6 @@ public class Queue<T> {
             tail.next = entry; //Set the current reference of tail to the new entry.
             tail = entry; //Update the tail to be the new entry.
         }
-
     }
 
     public void dequeue() {
@@ -45,7 +44,6 @@ public class Queue<T> {
         }
 
         head = head.next; //Will either be null or the next node.
-
     }
 
     public T peek() {
@@ -61,5 +59,4 @@ public class Queue<T> {
             this.next = null;
         }
     }
-
 }

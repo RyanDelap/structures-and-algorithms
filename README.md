@@ -24,7 +24,7 @@ ___
 * [Binary Tree]() [(wiki)](http://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)❌
 
 #### Sorting 
-* [Bubble Sort]() [(wiki)](http://en.wikipedia.org/wiki/Bubble_sort)❌
+* [Bubble Sort]() [(wiki)](http://en.wikipedia.org/wiki/Bubble_sort)✔️ 
 * [Heap Sort]() [(wiki)](http://en.wikipedia.org/wiki/Heapsort)❌
 * [Quick Sort]() [(wiki)](http://en.wikipedia.org/wiki/Quicksort)❌
 * [Merge Sort]() [(wiki)](http://en.wikipedia.org/wiki/Merge_sort)❌

@@ -3,9 +3,9 @@ package me.ryandelap.implementations.datastructures;
 import java.util.NoSuchElementException;
 
 /**
- * An implementation of the queue data structure.
- * First in, first out. (LIFO)
- * @param <T> The type of object we want to store in this queue.
+ * An implementation of the stack data structure.
+ * Last in First out (LIFO)
+ * @param <T> The type of object we want to store in this Stack.
  */
 public class Stack<T> {
 
