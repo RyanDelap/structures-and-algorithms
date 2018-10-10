@@ -4,6 +4,12 @@
 This project is just for educational purposes. I wouldn't recommend using it in production, however it does implement all 
 of the structures and algorithms using generics, so it could be useful. Do as you please with the code. 
 
+For usage and examples, view the [EXAMPLES.md](https://github.com/RyanDelap/structures-and-algorithms/blob/master/EXAMPLES.md) file.
+
+To compile, use maven and run
+```
+mvn clean install
+```
 
 ___
 ✔️️Implemented
