@@ -33,6 +33,18 @@ for (String s : list) {
 }
 ```
 
+### HashTable
+```
+HashTable<String, String> names = new HashTable<>();
+names.put("Ryan", "Delap");
+names.put("Jarrett", "Stiles");
+names.put("Chesley", "McDonald");
+names.put("Britain", "Hood");
+ 
+names.get("Ryan"); //Gets "Delap"
+names.size(); //returns 4
+names.remove("Jarrett") //Removes Jarrett K/V from the Hashtable.
+```
 
 ## Sorting Algorithms 
 

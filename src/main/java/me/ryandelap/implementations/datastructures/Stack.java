@@ -20,7 +20,6 @@ public class Stack<T> {
         Node current = head;
 
         while(current != null) {
-            System.out.println(current.data);
 
             length++;
             current = current.next;

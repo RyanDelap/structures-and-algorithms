@@ -18,8 +18,7 @@ ___
 
 * [Binary Search Tree]() [(wiki)](http://en.wikipedia.org/wiki/Binary_tree) ❌
 * [Graph]() [(wiki)](http://en.wikipedia.org/wiki/Graph_%28abstract_data_type)❌ 
-* [Hash Tables]() [(wiki)](http://en.wikipedia.org/wiki/Hash_table)❌
-* [Hash Map]() [(wiki)](http://en.wikipedia.org/wiki/Hash_table)❌
+* [Hash Tables]() [(wiki)](http://en.wikipedia.org/wiki/Hash_table)✔
 * [Single Linked List]() [(wiki)](http://en.wikipedia.org/wiki/Linked_list)✔️️
 * [Matrix]() [(wiki)](http://en.wikipedia.org/wiki/Matrix_(mathematics))❌
 * [Min/Max Heap]() [(wiki)](http://en.wikipedia.org/wiki/Heap_%28data_structure%29)❌
