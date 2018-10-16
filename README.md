@@ -45,3 +45,5 @@ ___
 * [Fibonacci]() [(wiki)](http://en.wikipedia.org/wiki/Selection_sort)❌
 
 README formatting was borrowed from [arnauddri's Go algorithm repository.](https://github.com/arnauddri) 👍
+
+Ryan smells
