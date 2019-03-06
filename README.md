@@ -12,8 +12,8 @@ mvn clean install
 ```
 
 ___
-✔️️Implemented
-❌TODO
+✔ Implemented
+❌ TODO
 #### Data Structures
 
 * [Binary Search Tree]() [(wiki)](http://en.wikipedia.org/wiki/Binary_tree) ❌
@@ -38,8 +38,9 @@ ___
 * [Selection Sort]() [(wiki)](http://en.wikipedia.org/wiki/Selection_sort)❌
 
 ### Searching
-* [Linear]() [(wiki)](http://en.wikipedia.org/wiki/Selection_sort)❌
-* [Binary]() [(wiki)](http://en.wikipedia.org/wiki/Selection_sort)❌
+* [Linear]() [(wiki)](http://uranidiotifudontknowhowthisworks.com)✔
+* [Binary]() [(wiki)](https://en.wikipedia.org/wiki/Binary_search_algorithm)✔
+* 
 
 ### Math
 * [Fibonacci]() [(wiki)](http://en.wikipedia.org/wiki/Selection_sort)❌

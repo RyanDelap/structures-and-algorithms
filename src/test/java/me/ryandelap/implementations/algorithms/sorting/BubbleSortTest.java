@@ -1,4 +1,4 @@
-package me.ryandelap.implementations.algorithms;
+package me.ryandelap.implementations.algorithms.sorting;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

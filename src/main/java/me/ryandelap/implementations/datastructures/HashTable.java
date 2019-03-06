@@ -85,7 +85,6 @@ public class HashTable<K, V> {
             throw new NullPointerException("Key does not exist in HashMap.");
         }
 
-
         HashEntry current = entries[index];
         HashEntry previous = null;
         boolean found = false;
