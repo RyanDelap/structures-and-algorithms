@@ -11,6 +11,11 @@ To compile, use maven and run
 mvn clean install
 ```
 
+To run tests, use maven and run 
+```
+mvn clean test
+```
+
 ___
 ✔ Implemented
 ❌ TODO
@@ -32,15 +37,14 @@ ___
 * [Bubble Sort]() [(wiki)](http://en.wikipedia.org/wiki/Bubble_sort)✔️ 
 * [Heap Sort]() [(wiki)](http://en.wikipedia.org/wiki/Heapsort)❌
 * [Quick Sort]() [(wiki)](http://en.wikipedia.org/wiki/Quicksort)❌
-* [Merge Sort]() [(wiki)](http://en.wikipedia.org/wiki/Merge_sort)❌
-* [Insertion Sort]() [(wiki)](http://en.wikipedia.org/wiki/Insertion_sort)❌
+* [Merge Sort]() [(wiki)](http://en.wikipedia.org/wiki/Merge_sort)✔
+* [Insertion Sort]() [(wiki)](http://en.wikipedia.org/wiki/Insertion_sort)✔
 * [Shell Sort]() [(wiki)](http://en.wikipedia.org/wiki/Shellsort)❌
 * [Selection Sort]() [(wiki)](http://en.wikipedia.org/wiki/Selection_sort)❌
 
 ### Searching
 * [Linear]() [(wiki)](http://uranidiotifudontknowhowthisworks.com)✔
 * [Binary]() [(wiki)](https://en.wikipedia.org/wiki/Binary_search_algorithm)✔
-* 
 
 ### Math
 * [Fibonacci]() [(wiki)](http://en.wikipedia.org/wiki/Selection_sort)❌
