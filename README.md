@@ -1,4 +1,4 @@
-# Java Algorithms and Data Structures [![Build Status](https://api.travis-ci.org/RyanDelap/structures-and-algorithms.svg?branch=master)](https://travis-ci.org/novucs/temp)
+# Java Algorithms and Data Structures
  A bunch of examples of common data structures and algorithms implemented in Java. 
 
 This project is just for educational purposes. I wouldn't recommend using it in production, however it does implement all 
